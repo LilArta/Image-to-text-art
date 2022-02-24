@@ -1,13 +1,14 @@
 ## 📝 Tutorial
 * Install requirements
 * Run `start.bat`
-* Enter the `username` you want
+* Enter the `Photo Location`
 
 ## 📎 Requirements
-* `pip install instaloader`
+* `pip install pywhatkit`
+* `pip install flask`
 
-## 🚀 What does it Download?
-- Profile Picture
+## 🚀 What does it?
+- Convert Image to Text Art
 
 ## 🖼️ Screenshots
 <br />
