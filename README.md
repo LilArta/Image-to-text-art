@@ -14,8 +14,11 @@
 <br />
 <p align="center">
   <a href="https://github.com/LilArta">
-  <p>My first paragraph.</p>
+  <p>Put Your Photo in your folder</p>
     <img src="https://cdn.discordapp.com/attachments/648262963765182464/946238131882033192/1.png">
-    <img src="https://cdn.discordapp.com/attachments/648262963765182464/946228293630320670/file.png">
+  <p>Paste Your Photo Location</p>
+    <img src="https://cdn.discordapp.com/attachments/648262963765182464/946238174198399046/2.png">
+    <img src="https://cdn.discordapp.com/attachments/648262963765182464/946238285326458921/3.png">
+    <img src="https://cdn.discordapp.com/attachments/648262963765182464/946238174198399046/2.png">
   </a>
 </p>
